@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#081C31"/><stop offset="55%" stop-color="#163452"/><stop offset="100%" stop-color="#284B6B"/></linearGradient>
+<radialGradient id="glow" cx="70%" cy="50%" r="60%"><stop offset="0%" stop-color="#5C94C7" stop-opacity=".26"/><stop offset="100%" stop-color="#092039" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="65" height="65" patternUnits="userSpaceOnUse"><path d="M 65 0 L 0 0 0 65" fill="none" stroke="#9FC7EC" stroke-opacity=".12" stroke-width="1"/></pattern>
+</defs>
+<rect width="1600" height="520" fill="url(#bg)"/>
+<rect width="1600" height="520" fill="url(#glow)"/>
+<rect x="625" y="0" width="975" height="520" fill="url(#grid)" opacity=".66"/>
+<path d="M620 439 C720 420 746 365 827 373 S978 341 1058 286 S1155 324 1243 221 S1425 228 1600 93" stroke="#A5CDEB" stroke-width="3" opacity=".7" fill="none"/>
+<path d="M620 439 C720 420 746 365 827 373 S978 341 1058 286 S1155 324 1243 221 S1425 228 1600 93 L1600 520 L620 520 Z" fill="#74ACD8" fill-opacity=".07"/>
+<g fill="#B5D9F4" opacity=".83">
+<circle cx="827" cy="373" r="5"/><circle cx="1058" cy="286" r="5"/><circle cx="1243" cy="221" r="5"/><circle cx="1435" cy="177" r="5"/>
+</g>
+<g fill="none" stroke="#82B5DD" stroke-width="1.5" opacity=".32">
+<path d="M1090 145h390"/><path d="M1090 176h390"/><path d="M1090 207h390"/>
+</g>
+<rect x="95" y="133" width="4" height="240" fill="#64A8DD"/>
+<text x="136" y="185" font-size="24" letter-spacing="6" fill="#9EC4E4" font-family="Arial,sans-serif">FINANCIAL DATA ANALYTICS</text>
+<text x="132" y="286" font-size="77" font-weight="600" fill="#F4F7FC" font-family="Georgia,serif">Sehyoun Bae.</text>
+<text x="137" y="345" font-size="27" letter-spacing="2" fill="#C3D4E4" font-family="Arial,sans-serif">Mathematics × Statistics</text>
+<rect x="137" y="372" width="140" height="6" rx="2" fill="#73B9EB"/>
+</svg>
