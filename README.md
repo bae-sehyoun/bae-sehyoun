@@ -1,28 +1,28 @@
-# 안녕하세요.
+# Hi, I'm Sehyoun Bae.
 
-수학·통계학을 공부하며 금융 데이터 분석 직무를 준비하고 있습니다.
+I study Mathematics and Statistics at Jeonbuk National University and am preparing for a career in financial data analysis.
 
-앞으로 직접 수행하는 데이터 분석 프로젝트를 하나씩 정리하고, 분석 과정과 결과를 스스로 설명할 수 있을 때 공개하려고 합니다.
+I plan to document new data analysis projects step by step, sharing them once I can explain my approach and findings in my own words.
 
-## 경험 및 활동
+## Experience & Activities
 
-- **전북신용보증재단 | 직무체험 (7주)**  
-  고객의 비대면 보증 신청과 상담 절차를 안내하고, 정책자금 문의에 대응하며 안내 자료를 정리했습니다.
-- **프랜차이즈 매장 | 근무 경험**  
-  매출·재고 기록을 살펴 요일별 발주 방식과 키오스크 구성 개선에 참여했습니다.
-- **학과 학생회 | 회계 운영 경험**  
-  월별 회계내역서를 도입하고 회계 현황을 정리·공개하는 일을 수행했습니다.
-- **방산 AI 아이디어 경진대회 | 본선 진출**  
-  아이디어 2건을 제안한 뒤, 팀원 2명의 아이디어를 결합하는 방향을 제안해 팀의 기획안을 조율했습니다. 전체 기획과 제안서 최종 정리를 담당했습니다. 본선 진출 후 일부 아이디어가 방산보다 방첩에 가깝다는 피드백을 받으며 주제의 범위를 구분하는 중요성을 배웠습니다.
+- **Jeonbuk Credit Guarantee Foundation | Work Experience (7 weeks)**  
+  Assisted customers with non-face-to-face guarantee applications and consultation procedures, responded to inquiries about public financing programs, and organized guidance materials.
+- **Franchise Store | Work Experience**  
+  Reviewed sales and inventory records and contributed to improvements in ordering practices and kiosk layout.
+- **Department Student Council | Accounting Activities**  
+  Introduced monthly financial reports and helped organize and share accounting information.
+- **Defense AI Idea Competition | Finalist**  
+  Proposed two ideas of my own, then suggested combining two teammates' ideas to move forward as a team. Coordinated the overall planning and finalized the proposal. After advancing to the final round, received feedback that part of the concept was more closely related to counterintelligence than defense, highlighting the importance of clearly defining a project's scope.
 
-## 학력 및 자격
+## Education & Certifications
 
-- 전북대학교 수학·통계학 복수전공
-- ADsP (데이터분석 준전문가) 취득
-- SQLD (SQL 개발자) 취득
+- **Jeonbuk National University** — Double major in Mathematics and Statistics
+- **ADsP** — Advanced Data Analytics Semi-Professional
+- **SQLD** — SQL Developer
 
 ## Projects
 
-현재 공개한 데이터 분석 프로젝트는 없습니다.
+No data analysis projects have been published yet.
 
-앞으로 새 프로젝트를 직접 진행하면서, **무엇을 분석했는지·왜 그렇게 분석했는지·어떤 결과를 얻었는지** 스스로 설명할 수 있게 된 결과물부터 차근차근 추가하겠습니다.
+I will add new projects as I complete them and become confident explaining **what I analyzed, why I chose my approach, and what I found**. Detailed project reports will primarily be written in Korean, with concise English summaries where useful.
